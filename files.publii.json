@@ -1,0 +1,737 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "14b9a1859e0c59330b9439e31405eba9"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "5c4a42436e213015739db8cbc22c0cd3"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "70e5b41aef59b817111a41a581647b82"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "e5ad27e7b330f5e7f7fa9bfb74e8fca4"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "9952f77ca2b8fbc9449a268008ea8dee"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "b586a3bc288c989ecce7b81b48e35855"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "a4f588d02a5173243813af82b5d5546e"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "38f529a5cfc8469010687b31596e8208"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/admin",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/admin/index.html",
+        "type": "file",
+        "md5": "6399191c57a8508957d3fda62ee50777"
+    },
+    {
+        "path": "authors/admin/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/admin/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/admin/page/2/index.html",
+        "type": "file",
+        "md5": "8bf18657493186b327318abe155301c1"
+    },
+    {
+        "path": "authors/admin/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/admin/page/3/index.html",
+        "type": "file",
+        "md5": "65f5ad0abcdb6f55c8b97798d2971a8e"
+    },
+    {
+        "path": "authors/admin/page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/admin/page/4/index.html",
+        "type": "file",
+        "md5": "b5fc6146298a855eebdb0b28e6870f02"
+    },
+    {
+        "path": "authors/admin/page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/admin/page/5/index.html",
+        "type": "file",
+        "md5": "309e6517d70280af128c765c6d211c21"
+    },
+    {
+        "path": "authors/admin/page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/admin/page/6/index.html",
+        "type": "file",
+        "md5": "d666bdff58150391f20346584b899a87"
+    },
+    {
+        "path": "authors/admin/page/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/admin/page/7/index.html",
+        "type": "file",
+        "md5": "0c7a5d7e24861a9abe5297f3042d7f13"
+    },
+    {
+        "path": "contact.html",
+        "type": "file",
+        "md5": "6f9db19c9f4f98b1a31e6eaabf544b50"
+    },
+    {
+        "path": "disclaimer.html",
+        "type": "file",
+        "md5": "e6d7183d858d1c1cd77e9585a751f828"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "2f7a578911af51884e29e9a2a47cacc0"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "9fbdb128dac20e6f14f9dec51a9a793d"
+    },
+    {
+        "path": "harga-372-kopi-setiabudi.html",
+        "type": "file",
+        "md5": "780d0cc5d23ad0201d954da05d225df6"
+    },
+    {
+        "path": "harga-511-per-sak.html",
+        "type": "file",
+        "md5": "4bdf50364aa0f2c0d5a2bb1b25bd46ac"
+    },
+    {
+        "path": "harga-a3s-ram-3gb.html",
+        "type": "file",
+        "md5": "28dc7045376d40bc547a8d3fbd18a4bb"
+    },
+    {
+        "path": "harga-honda-forza-150-lokal.html",
+        "type": "file",
+        "md5": "5e8748c3d21c6f548afce4f59c8db3e1"
+    },
+    {
+        "path": "harga-honda-forza-150cc.html",
+        "type": "file",
+        "md5": "31b0bff6aa9dfba0964d67179d35a517"
+    },
+    {
+        "path": "harga-honda-giorno-50cc.html",
+        "type": "file",
+        "md5": "18702b7f31731ef319960fd2090139fa"
+    },
+    {
+        "path": "harga-honda-goldwing-2005.html",
+        "type": "file",
+        "md5": "838b508dd78ce47736d9325314664dc2"
+    },
+    {
+        "path": "harga-honda-gpx-legend-200.html",
+        "type": "file",
+        "md5": "5917fe8d72ff38ee11703ff5e3becee1"
+    },
+    {
+        "path": "harga-honda-magna-250cc.html",
+        "type": "file",
+        "md5": "66bb97f39dc077c801cd3e40f97d3055"
+    },
+    {
+        "path": "harga-honda-megapro-2009.html",
+        "type": "file",
+        "md5": "9b4c8a20b196112334c6cf2257118eb3"
+    },
+    {
+        "path": "harga-honda-monkey-indonesia.html",
+        "type": "file",
+        "md5": "7ba328e1dd8a888fc58e31a60e651edd"
+    },
+    {
+        "path": "harga-honda-nsr-500-bekas.html",
+        "type": "file",
+        "md5": "cbf30f1c9281c8a37baa170e2e7374b1"
+    },
+    {
+        "path": "harga-honda-nsx-nc1.html",
+        "type": "file",
+        "md5": "8eff87057293c5d2fccb638db28ff994"
+    },
+    {
+        "path": "harga-honda-odyssey-2009.html",
+        "type": "file",
+        "md5": "fe73d31b7499763fc68de396dd04530e"
+    },
+    {
+        "path": "harga-honda-rebel-500-second.html",
+        "type": "file",
+        "md5": "3ab54bf76789c548691a66f95bc4fc72"
+    },
+    {
+        "path": "harga-honda-ruckus-250cc.html",
+        "type": "file",
+        "md5": "2726b84a894d4f00f4b65e4648e2af3d"
+    },
+    {
+        "path": "harga-honda-sh150i-bekas.html",
+        "type": "file",
+        "md5": "e6794f95583d0269a052127dd665db5f"
+    },
+    {
+        "path": "harga-honda-steed-400-baru.html",
+        "type": "file",
+        "md5": "5d368dfc55edefd6f4d09a1f93322921"
+    },
+    {
+        "path": "harga-honda-stream-bandung.html",
+        "type": "file",
+        "md5": "df08bc905fc1bdd3a4c5b13adf7507a4"
+    },
+    {
+        "path": "harga-honda-super-cub-175cc.html",
+        "type": "file",
+        "md5": "fd93391faa97d80f68ee52768264ef40"
+    },
+    {
+        "path": "harga-honda-supra-fit-2005.html",
+        "type": "file",
+        "md5": "a88065a57edc7a405f41c478eaf167ee"
+    },
+    {
+        "path": "harga-honda-supra-gtr-150-sporty.html",
+        "type": "file",
+        "md5": "32aa4625b249e196d9325259d2be8864"
+    },
+    {
+        "path": "harga-honda-trail-250.html",
+        "type": "file",
+        "md5": "7caa447641aa24dbb93f649046ba3043"
+    },
+    {
+        "path": "harga-honda-verza-bekas-jogja.html",
+        "type": "file",
+        "md5": "0b7985f3df551e27dfc8f7fd65995521"
+    },
+    {
+        "path": "harga-honda-win-2003.html",
+        "type": "file",
+        "md5": "6057cf6b64ba68e662a1dab961b7294f"
+    },
+    {
+        "path": "harga-honda-x-blade-indonesia.html",
+        "type": "file",
+        "md5": "8d6132c874f6890375cfe143b6b58dd0"
+    },
+    {
+        "path": "harga-honor-8a-indonesia.html",
+        "type": "file",
+        "md5": "a348fbda3cce70b56b2c888935e4cf3e"
+    },
+    {
+        "path": "harga-honor-9-lite-terbaru.html",
+        "type": "file",
+        "md5": "fd5abbbe75dd65b0ff288ebbc73e8202"
+    },
+    {
+        "path": "harga-honor-dan-spesifikasi.html",
+        "type": "file",
+        "md5": "5318fb3522ce663071d2159579e1f2eb"
+    },
+    {
+        "path": "harga-honor-play-indonesia.html",
+        "type": "file",
+        "md5": "2ed339d10a858949890acac21ca1d0b7"
+    },
+    {
+        "path": "harga-hoodie-supreme-x-lv.html",
+        "type": "file",
+        "md5": "f2ff61c67d6a19a297c07f50732443a7"
+    },
+    {
+        "path": "harga-hoshi-breast-cream-di-apotik.html",
+        "type": "file",
+        "md5": "0d8aeb7743f63810858a9e5eaf0bcab3"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "21b78f5aca7272e4b820c427169e86ef"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/49",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/49/faktor-faktor-yang-mempengaruhi-harga-kopi-setiabudi.jpg",
+        "type": "file",
+        "md5": "629a6a00e3256a91133d92a1c81ef0a5"
+    },
+    {
+        "path": "/media/posts/49/jenis-kopi-setiabudi.jpg",
+        "type": "file",
+        "md5": "9cbb18fd3067245729d77a22a7db9b40"
+    },
+    {
+        "path": "/media/posts/49/sejarah-kopi-setiabudi.jpg",
+        "type": "file",
+        "md5": "0c4ec8f70aa1af83c8bd16607102863f"
+    },
+    {
+        "path": "/media/posts/49/tips-memilih-harga-kopi-setiabudi-yang-tepat.jpg",
+        "type": "file",
+        "md5": "fd7952d89773791d565fd76169b42a6d"
+    },
+    {
+        "path": "media/posts/52",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/52/cara-memilih-honda-forza-150.jpg",
+        "type": "file",
+        "md5": "fe58c411d7e3ce4cea96cd585d0763b6"
+    },
+    {
+        "path": "/media/posts/52/harga-honda-forza-150-lokal.jpg",
+        "type": "file",
+        "md5": "b6d383eb26f4d82b3b3a31410fe81228"
+    },
+    {
+        "path": "/media/posts/52/kelebihan-dan-kekurangan-honda-forza-150.jpg",
+        "type": "file",
+        "md5": "8ba7218dc55f0f725863df3fc1eac510"
+    },
+    {
+        "path": "/media/posts/52/ringkasan.jpg",
+        "type": "file",
+        "md5": "64881f2e401cb583af0585aaef17bfd3"
+    },
+    {
+        "path": "/media/posts/52/spesifikasi-honda-forza-150.jpg",
+        "type": "file",
+        "md5": "db4788eac46c52a7d9ae972d04658e98"
+    },
+    {
+        "path": "media/posts/54",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/54/intro.jpg",
+        "type": "file",
+        "md5": "55f5a12c1eda6ef235f35be210df887b"
+    },
+    {
+        "path": "media/posts/57",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/57/introduction-to-honda-magna-250cc.jpg",
+        "type": "file",
+        "md5": "1172b7ec734aadd26e1586a0e7b0ed01"
+    },
+    {
+        "path": "media/posts/73",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/73/fitur-honda-win-2003.jpg",
+        "type": "file",
+        "md5": "839f008c2b3939815df26eb07736628a"
+    },
+    {
+        "path": "/media/posts/73/harga-honda-win-2003.jpg",
+        "type": "file",
+        "md5": "839f008c2b3939815df26eb07736628a"
+    },
+    {
+        "path": "/media/posts/73/pengenalan.jpg",
+        "type": "file",
+        "md5": "7a74f3df25339811c7a7f4ffca69b082"
+    },
+    {
+        "path": "/media/posts/73/tips-beli-honda-win-2003.jpg",
+        "type": "file",
+        "md5": "2fa492cf0ae3b3a9921a168d76569fe2"
+    },
+    {
+        "path": "media/posts/78",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/78/pendahuluan.jpg",
+        "type": "file",
+        "md5": "22e2ebdbfb91652548d6f088ba2a1d9d"
+    },
+    {
+        "path": "media/posts/80",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/80/bagaimana-cara-mendapatkan-hoshi-breast-cream-di-apotik.jpg",
+        "type": "file",
+        "md5": "2dbbd43dfc805998ce5945a9fc750f30"
+    },
+    {
+        "path": "/media/posts/80/cara-mendapatkan-hoshi-breast-cream-di-apotik.jpg",
+        "type": "file",
+        "md5": "2dbbd43dfc805998ce5945a9fc750f30"
+    },
+    {
+        "path": "/media/posts/80/fungsi-hoshi-breast-cream.jpg",
+        "type": "file",
+        "md5": "2dbbd43dfc805998ce5945a9fc750f30"
+    },
+    {
+        "path": "/media/posts/80/harga-hoshi-breast-cream-di-apotik.jpg",
+        "type": "file",
+        "md5": "9c879e784cb49b3eb990d762bf03d4ab"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/favicon-1.ico",
+        "type": "file",
+        "md5": "263b772290d487ea15390302f0b846a6"
+    },
+    {
+        "path": "/media/website/logo-detiknews.png",
+        "type": "file",
+        "md5": "5a67160a10f84d21db9b06587a29559a"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/logo-detiknews-2xl.png",
+        "type": "file",
+        "md5": "b3dd7a187104de0317555f4e1fa3252c"
+    },
+    {
+        "path": "/media/website/responsive/logo-detiknews-lg.png",
+        "type": "file",
+        "md5": "b3dd7a187104de0317555f4e1fa3252c"
+    },
+    {
+        "path": "/media/website/responsive/logo-detiknews-md.png",
+        "type": "file",
+        "md5": "b3dd7a187104de0317555f4e1fa3252c"
+    },
+    {
+        "path": "/media/website/responsive/logo-detiknews-sm.png",
+        "type": "file",
+        "md5": "b3dd7a187104de0317555f4e1fa3252c"
+    },
+    {
+        "path": "/media/website/responsive/logo-detiknews-xl.png",
+        "type": "file",
+        "md5": "b3dd7a187104de0317555f4e1fa3252c"
+    },
+    {
+        "path": "/media/website/responsive/logo-detiknews-xs.png",
+        "type": "file",
+        "md5": "b3dd7a187104de0317555f4e1fa3252c"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "313f9ce73199aa5d3f87f4b53ff0e2a2"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "181ffecacf76cd27e57e3176fc42aa51"
+    },
+    {
+        "path": "page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/4/index.html",
+        "type": "file",
+        "md5": "4f66af1b63a0825359356f44b79188b9"
+    },
+    {
+        "path": "page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/5/index.html",
+        "type": "file",
+        "md5": "ce44017d201e719924e5be1b14948851"
+    },
+    {
+        "path": "page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/6/index.html",
+        "type": "file",
+        "md5": "c2508639c19a8b80a33383c6aa5f729d"
+    },
+    {
+        "path": "page/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/7/index.html",
+        "type": "file",
+        "md5": "0595a63b440c2369c57ca78fb890a470"
+    },
+    {
+        "path": "privacy-policy.html",
+        "type": "file",
+        "md5": "8a7f55c081344bf39804c8a09cfabbe5"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b44620d3a8e18b5cbe9df957b55503e8"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "79269f86643c77e0d2eb94c0e8121305"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "3aea30e80b1dd5fc68fad14066251699"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/harga",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/harga/index.html",
+        "type": "file",
+        "md5": "b41aa55024a038306a950f3939711e8c"
+    },
+    {
+        "path": "tags/harga/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/harga/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/harga/page/2/index.html",
+        "type": "file",
+        "md5": "48f00eff6040defeb226258a6ab7d6bb"
+    },
+    {
+        "path": "tags/harga/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/harga/page/3/index.html",
+        "type": "file",
+        "md5": "e0b1ae4565b2b30f97e5caf22daf2906"
+    },
+    {
+        "path": "tags/harga/page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/harga/page/4/index.html",
+        "type": "file",
+        "md5": "4bde81f80368fef11f7edf00854a5bf4"
+    },
+    {
+        "path": "tags/harga/page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/harga/page/5/index.html",
+        "type": "file",
+        "md5": "0b33b016d4293314048ed49f4eb210b5"
+    },
+    {
+        "path": "tags/harga/page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/harga/page/6/index.html",
+        "type": "file",
+        "md5": "78ada765b9633e1b5a60841ca64cb975"
+    },
+    {
+        "path": "tags/harga/page/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/harga/page/7/index.html",
+        "type": "file",
+        "md5": "675cfa25e7b4c31f87690a5948e78c1e"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "f5eec6e8ba686ef4b098b1997e9fce31"
+    }
+]
